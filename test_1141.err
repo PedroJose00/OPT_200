@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/home/pjdiazg/Apoptosis_29_05_24/apoptosis_02_24_05_24.py", line 3136, in <module>
+    fem_function_expression_array_dot_tbr.x[:] = expression_array_dot_tbr
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+TypeError: 'Vector' object does not support item assignment
